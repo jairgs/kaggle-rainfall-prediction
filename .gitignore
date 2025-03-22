@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# Logs and outputs
+*.log
+*.out
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Streamlit config
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Model files (optional — remove if you want to commit your .joblib file)
+*.joblib
+*.pkl
+
+# VSCode config
+.vscode/

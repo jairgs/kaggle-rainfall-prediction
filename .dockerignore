@@ -1,0 +1,20 @@
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Git and config files
+.git
+.gitignore
+
+# Ignore model outputs/logs
+*.log
+*.pkl
+*.h5
+.ipynb_checkpoints/
