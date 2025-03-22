@@ -5,7 +5,7 @@ import numpy as np
 from joblib import load
 
 # Load your model
-model = load("rainfall_classifier.joblib")
+model = load("models/rainfall_classifier_v1.joblib")
 
 # App title
 st.title("🌧️ Rainfall Prediction")

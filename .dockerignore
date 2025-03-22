@@ -15,6 +15,5 @@ venv/
 
 # Ignore model outputs/logs
 *.log
-*.pkl
 *.h5
 .ipynb_checkpoints/
