@@ -22,3 +22,5 @@ venv/
 
 # VSCode config
 .vscode/
+
+docker-compose.yaml
